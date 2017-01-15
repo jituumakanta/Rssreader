@@ -128,7 +128,9 @@ public class RSSDatabaseHandler extends SQLiteOpenHelper {
 		return update;
 
 	}
-//jjj
+//jjj//ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+	//hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+	//gggggggggggggggggggggggggggggggggg
 	/**
 	 * Reading a row (website) row is identified by row id
 	 * */
