@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.KeyEvent;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
-
+//
 public class DisPlayWebPageActivity extends Activity {
 	
 	WebView webview;

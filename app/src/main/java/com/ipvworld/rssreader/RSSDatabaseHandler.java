@@ -40,7 +40,7 @@ public class RSSDatabaseHandler extends SQLiteOpenHelper {
 				+ " TEXT" + ")";
 		db.execSQL(CREATE_RSS_TABLE);
 	}
-
+//
 	// Upgrading database
 	@Override
 	public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {

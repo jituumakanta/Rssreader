@@ -17,7 +17,7 @@ import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 import android.widget.TextView;
-
+//
 public class ListRSSItemsActivity extends ListActivity {
 	
 	// Progress Dialog
