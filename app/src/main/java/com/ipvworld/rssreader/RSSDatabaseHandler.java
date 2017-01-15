@@ -128,7 +128,7 @@ public class RSSDatabaseHandler extends SQLiteOpenHelper {
 		return update;
 
 	}
-
+//jjj
 	/**
 	 * Reading a row (website) row is identified by row id
 	 * */
