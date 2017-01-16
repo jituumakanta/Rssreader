@@ -10,7 +10,7 @@ import android.webkit.WebViewClient;
 public class DisPlayWebPageActivity extends Activity {
 	
 	WebView webview;
-	
+	//////////////////////////////////////
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
