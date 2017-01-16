@@ -11,8 +11,8 @@ public class DisPlayWebPageActivity extends Activity {
 	
 	WebView webview;
 	//////////////////////////////////////////////////////////////////////////////////////////////////
-	//////////////////////hhhhhhhhhhhhhhhhhhhhhhhh
-    /////////////////////////
+	//
+    //mmmmmmmmmmmm
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
